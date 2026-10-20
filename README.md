@@ -191,17 +191,10 @@ The availability of each step depends on the relevant feature being correctly co
 
 Screenshots of the actual application will be added here to demonstrate its interface and functionality.
 
-### Dashboard
 
-![LinkPulse Dashboard](./screenshot-dashboard.png)
+### analytics
 
-### Create Short Link
-
-![Create Short Link](./screenshot-create-link.png)
-
-### Analytics Dashboard
-
-![Analytics Dashboard](./screenshot-analytics.png)
+![Analytics Dashboard](./screenshots-analytics.png)
 
 ### Link Management
 
@@ -210,6 +203,15 @@ Screenshots of the actual application will be added here to demonstrate its inte
 ### Admin Governance
 
 ![Admin Governance](./screenshot-admin.png)
+
+### campaingns
+
+![campaigns](./screenshot-campaigns.png)
+
+### qr 
+![qr](./screenshot-qr.png)
+
+
 
 ---
 
